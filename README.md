@@ -1,9 +1,9 @@
 # Market Mood Analysis: Analyzing the Impact of US Central Bank Statements on Stock Market Trends
 
 ## Contributors
-* [Mohammed Usama Jasnak](mh659974@dal.ca)
-* [Konstantin Zuev](kn905954@dal.ca@dal.ca)
-* [Pallavi Singh](pall.singh@dal.ca@dal.ca)
+* [Mohammed Usama Jasnak](https://github.com/UsamaJasnak/)
+* [Konstantin Zuev](https://github.com/ghginm)
+* [Pallavi Singh](https://github.com/psingh510)
 * [Rutvik Vengurlekar](rt762740@dal.ca@dal.ca@dal.ca)
 
 
